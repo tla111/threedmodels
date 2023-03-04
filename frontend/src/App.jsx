@@ -1,14 +1,11 @@
 import React from 'react'
 
 const App = () => {
-  return (
-    <div>
-      <h1 className="text-3xl font-bold underline">
-        Hello world!
-      </h1>
-    </div>
-  )
+    return (
+        <div>
+            3D Developer
+        </div>
+    )
 }
 
 export default App
-
